@@ -500,7 +500,7 @@ export default function PortfolioWebsite() {
           </div>
 
           <div className="text-zinc-500 space-y-2 text-sm">
-            <p>Email: ebenezergetamesay@example.com</p>
+            <p>Email: ebenezergetamesay@gmail.com</p>
             <p>Location: Ethiopia</p>
             <p>Availability: Open to opportunities</p>
           </div>
